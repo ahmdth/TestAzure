@@ -20,3 +20,8 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.good{
+    color: green;
+    background-color: mediumvioletred;
+}
